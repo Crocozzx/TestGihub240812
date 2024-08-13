@@ -23,6 +23,7 @@ public class TestFilter01 implements Filter {
         //filterChain.doFilter(req,resp);
         //resp.getWriter().print("skjdfklasdjfl");
         //req.getRequestDispatcher("TestServlet01").forward(req,resp);
+        System.out.println("master");
 
     }
 
