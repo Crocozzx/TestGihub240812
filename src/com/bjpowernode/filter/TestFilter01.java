@@ -23,15 +23,7 @@ public class TestFilter01 implements Filter {
         //filterChain.doFilter(req,resp);
         //resp.getWriter().print("skjdfklasdjfl");
         //req.getRequestDispatcher("TestServlet01").forward(req,resp);
-        //dev分支添加的
-        System.out.println("dev分支添加的");
-        System.out.println("master 添加了");
-        System.out.println("--------");
-        System.out.println("dev进行第二次添加");
-        System.out.println("dddddddddddddddd");
-        System.out.println("哈哈哈哈成功了");
-        //
-        System.out.println("");
+
     }
 
     @Override
