@@ -26,7 +26,7 @@ public class TestFilter01 implements Filter {
         System.out.println("master");
         System.out.println("master2");
         System.out.println("master3");
-
+        System.out.println("1");
     }
 
     @Override
