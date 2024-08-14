@@ -25,6 +25,7 @@ public class TestFilter01 implements Filter {
         //req.getRequestDispatcher("TestServlet01").forward(req,resp);
         System.out.println("master");
         System.out.println("master2");
+        System.out.println("master3");
 
     }
 
